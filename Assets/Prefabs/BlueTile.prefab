@@ -7,6 +7,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7858594883481197192, guid: 8cd6853bcc71a4e44b4d9255b9d066da, type: 3}
+      propertyPath: faction
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5223331178372751305, guid: 8cd6853bcc71a4e44b4d9255b9d066da, type: 3}
       propertyPath: m_Name
       value: BlueTile
